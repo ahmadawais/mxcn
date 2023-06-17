@@ -1,0 +1,28 @@
+{
+	"name": "mxcn",
+	"version": "0.0.1",
+	"description": "Utility function to use both &#x60;clsx&#x60; and &#x60;tailwind-merge&#x60; in one go. Where class merging becomes a seamless dance, leaving style conflicts in the dust!",
+	"license": "MIT",
+	"repository": "ahmadawais/mxcn",
+	"author": {
+		"name": "Ahmad Awais",
+		"email": "me@AhmadAwais.com",
+		"url": "https://twitter.com/MrAhmadAwais"
+	},
+	"main": "index.js",
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"mxcn",
+		"Ahmad Awais",
+		"ahmadawais"
+	],
+	"devDependencies": {
+		"prettier": "^2.0.2"
+	},
+	"scripts": {
+		"test": "node test.js",
+		"format": "prettier --write \"./**/*.{js,json}\""
+	}
+}
