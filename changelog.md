@@ -1,10 +1,10 @@
 # CHANGELOG
 
-[![Twitter @MrAhmadAwais](https://img.shields.io/badge/-@MrAhmadAwais-gray.svg?colorA=6A788D&colorB=6A788D&style=for-the-badge)](https://twitter.com/MrAhmadAwais/) [![LinkedIn @MrAhmadAwais](https://img.shields.io/badge/LINKEDIN-gray.svg?colorA=6A788D&colorB=6A788D&style=for-the-badge)](https://www.linkedin.com/in/MrAhmadAwais/) [![YouTube AhmadAwais](https://img.shields.io/badge/YOUTUBE-gray.svg?colorA=6A788D&colorB=6A788D&style=for-the-badge)](https://youtube.com/AhmadAwais?sub_confirmation=1) [![Blog: AhmadAwais.com](https://img.shields.io/badge/-MY%20BLOG-gray.svg?colorA=6A788D&colorB=6A788D&style=for-the-badge)](https://AhmadAwais.com/) [![GitHub @AhmadAwais](https://img.shields.io/badge/-GitHub-gray.svg?colorA=6A788D&colorB=6A788D&style=for-the-badge)](https://github.com/ahmadawais)
+[![Twitter @MrAhmadAwais](https://img.shields.io/badge/Twitter-@MrAhmadAwais-gray.svg?colorA=21262D&colorB=30363D&style=for-the-badge)](https://twitter.com/MrAhmadAwais/) [![LinkedIn @MrAhmadAwais](https://img.shields.io/badge/LINKEDIN-gray.svg?colorA=21262D&colorB=30363D&style=for-the-badge)](https://www.linkedin.com/in/MrAhmadAwais/) [![YouTube AhmadAwais](https://img.shields.io/badge/YOUTUBE-gray.svg?colorA=21262D&colorB=30363D&style=for-the-badge)](https://youtube.com/AhmadAwais?sub_confirmation=1) [![Blog: AhmadAwais.com](https://img.shields.io/badge/-MY%20BLOG-gray.svg?colorA=21262D&colorB=30363D&style=for-the-badge)](https://AhmadAwais.com/) [![GitHub @AhmadAwais](https://img.shields.io/badge/-GitHub-gray.svg?colorA=21262D&colorB=30363D&style=for-the-badge)](https://github.com/ahmadawais)
 
 > I have released a video course to help you build <a href="https://NodeCLI.com/?utm_source=FOSS" target="_blank">Node.js CLIs for Automation</a> →</p>
 
-> [**Support my work**][sponsor]: If you or your company use any of my projects or like what I’m doing then consider [backing me][sponsor]. I'm in this for the long run. An open-source developer advocate.
+> [Support my work][sponsor]: Hey there! If you or your company have been benefiting from any of my projects or simply appreciate the awesomeness I bring to the table, why not consider backing me up? I'm committed to sticking around for the long haul, tirelessly advocating for open-source development.
 
 [![Sponsor Awais](https://raw.githubusercontent.com/ahmadawais/stuff/master/sponsor/sponsor.jpg)][s]
 
@@ -45,11 +45,25 @@ All notable changes in this project's [released versions](../../releases) are do
 <img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
 <br>
 
+### RELEASE: [1.3.3](https://github.com/ahmadawais/mxcn/compare/1.3.3...1.3.3)
+
+<br>
+
+<br>
+<img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/dark-hr.png#gh-dark-mode-only" alt="hr" />
+<img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
+<br>
+
 ### RELEASE: [1.3.3](https://github.com/ahmadawais/mxcn/compare/1.3.2...1.3.3)
 
 ![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
 
+> 📖 Changelog [`959a9fd`](https://github.com/ahmadawais/mxcn/commit/959a9fd7ed1887cba52f56bf43c8e83341e3bf93) <br>
 > 📖 Deps docs [`ecb9d7d`](https://github.com/ahmadawais/mxcn/commit/ecb9d7d5a271bbd992bb574835d53675606f5b69) <br>
+
+![🚀 RELEASE:](https://img.shields.io/badge/-RELEASE-gray.svg?colorB=E5A301)
+
+> 🚀 1.3.3 [`34a5900`](https://github.com/ahmadawais/mxcn/commit/34a5900d3b6c1e97186db5701051fcb7cdf1f05d) <br>
 
 <br>
 
