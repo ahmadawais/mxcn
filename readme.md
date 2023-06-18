@@ -79,6 +79,9 @@ cn('foo', [1 && 'bar', { baz:false, bat:null }, ['hello', ['world']]], 'cya')
 //=> 'foo bar hello world cya'
 ```
 
+> For more please check the docs of  [`clsx`](https://github.com/lukeed/clsx) and [`tailwind-merge`](https://github.com/dcastil/tailwind-merge). Cheers!
+
+
 <br>
 
 [![📝](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/log.png)](changelog.md)
