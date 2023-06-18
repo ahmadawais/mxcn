@@ -53,6 +53,7 @@ All notable changes in this project's [released versions](../../releases) are do
 
 ![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
 
+> 📖 Changelog [`f23fe81`](https://github.com/ahmadawais/mxcn/commit/f23fe819f3a237d53609a4035dfcc4a2f1a5df8b) <br>
 > 📖 Changelog [`36158a4`](https://github.com/ahmadawais/mxcn/commit/36158a41fd1bfcb143b05b5b2f1ba1dcf19f89f7) <br>
 
 <br>
