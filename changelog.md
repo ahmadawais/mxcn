@@ -32,6 +32,18 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 
 <br>
 
+### RELEASE: [1.1.0](https://github.com/ahmadawais/mxcn/compare/1.0.0...1.1.0)
+
+![🐛 FIX:](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 Pkg links [`347e428`](https://github.com/ahmadawais/mxcn/commit/347e4282a5a9038de77380158460155ce6abe8a4) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
 ### RELEASE: 1.0.0
 
 ![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
@@ -54,6 +66,7 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 
 ![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
 
+> 📖 Changelog [`ec834d7`](https://github.com/ahmadawais/mxcn/commit/ec834d7dfe23a59f2664e8813313445b340b4478) <br>
 > 📖 Less goo! [`8432f1f`](https://github.com/ahmadawais/mxcn/commit/8432f1fed60c2d22387fd00aeeeb4609fc97a9c7) <br>
 > 📖 Order [`c03a20e`](https://github.com/ahmadawais/mxcn/commit/c03a20ee8bc71ddc6b9a472c2ac107b5cf9b068d) <br>
 

@@ -1,6 +1,6 @@
 {
 	"name": "mxcn",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"description": "Utility function to use both `clsx` and `tailwind-merge` in one go. Where class merging becomes a seamless dance, leaving style conflicts in the dust!",
 	"license": "MIT",
 	"repository": "ahmadawais/mxcn",
