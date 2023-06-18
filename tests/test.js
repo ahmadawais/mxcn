@@ -55,3 +55,7 @@ test('mxcn tailwind-merge', () => {
 		'hover:bg-dark-red p-3 bg-[#B91C1C]'
 	);
 });
+
+test('mxcn clsx: Strings (variadic)', () => {
+	expect(cn('foo', true && 'bar', 'baz')).toBe('foo bar baz');
+});
