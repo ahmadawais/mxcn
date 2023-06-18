@@ -48,3 +48,10 @@ test('mxcn combined', () => {
 		)
 	).toBe('foo bar hello world cya');
 });
+
+test('mxcn tailwind-merge', () => {
+	// Example: tailwind-merge
+	expect(cn('px-2 py-1 bg-red hover:bg-dark-red', 'p-3 bg-[#B91C1C]')).toBe(
+		'hover:bg-dark-red p-3 bg-[#B91C1C]'
+	);
+});
