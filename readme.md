@@ -100,11 +100,11 @@ cn('foo', [1 && 'bar', { baz:false, bat:null }, ['hello', ['world']]], 'cya')
 
 <div align="left">
     <p><a href="https://twitter.com/MrAhmadAwais/"><img alt="Twitter @MrAhmadAwais" align="center" src="https://img.shields.io/badge/-@MrAhmadAwais-gray.svg?colorA=6A788D&colorB=1da1f2&style=for-the-badge" /></a>&nbsp;<small> <strong>(follow)</strong> To get <a href="https://Awais.dev/odmt">#OneDevMinute</a> development tips</small></p>
-    <p><a href="https://www.linkedin.com/in/MrAhmadAwais/"><img alt="LinkedIn @MrAhmadAwais" align="center" src="https://img.shields.io/badge/LINKEDIN-gray.svg?colorA=0A6DA5&colorB=0A6DA5&style=for-the-badge" /></a>&nbsp;<small><strong>(connect)</strong> On LinkedIn y'all</small></p>
+    <p><a href="https://www.linkedin.com/in/MrAhmadAwais/"><img alt="LinkedIn @MrAhmadAwais" align="center" src="https://img.shields.io/badge/LINKEDIN-gray.svg?colorA=0A6DA5&colorB=0A6DA5&style=for-the-badge" /></a>&nbsp;<small><strong>(connect)</strong> On LinkedIn, you know what to do here</small></p>
     <p><a href="https://youtube.com/AhmadAwais?sub_confirmation=1"><img alt="YouTube AhmadAwais" align="center" src="https://img.shields.io/badge/YOUTUBE-gray.svg?colorA=F6251D&colorB=F6251D&style=for-the-badge" /></a>&nbsp;<small><strong>(subscribe)</strong> Tech talks & #OneDevMinute videos</small></p>
     <p><a href="https://AhmadAwais.com/"><img alt="Blog: AhmadAwais.com" align="center" src="https://img.shields.io/badge/-MY%20BLOG-gray.svg?colorA=6A788D&colorB=6A788D&style=for-the-badge" /></a>&nbsp;<small><strong>(read)</strong> In-depth & long-form technical articles</small></p>
 	<div align="left">
-    <p><a href="https://github.com/ahmadawais"><img alt="GitHub @AhmadAwais" align="center" src="https://img.shields.io/badge/-GitHub-gray.svg?colorA=6A788D&colorB=6A788D&style=for-the-badge" /></a>&nbsp;<small><strong>(follow)</strong> To stay up to date on free & open-source software</small></p>
+    <p><a href="https://github.com/ahmadawais"><img alt="GitHub @AhmadAwais" align="center" src="https://img.shields.io/badge/-GitHub-gray.svg?colorA=6A788D&colorB=6A788D&style=for-the-badge" /></a>&nbsp;<small><strong>(follow)</strong> my free and open-source work</small></p>
 
 </div>
 
