@@ -9,13 +9,13 @@
 
 <br>
 
-- 🧿 Fully typed with TypeScript.
+- 🧿 Fully typed, with built-in TypeScript declarations
 - 📦 Use [`clsx`](https://github.com/lukeed/clsx) and [`tailwind-merge`](https://github.com/dcastil/tailwind-merge) in one go
-- 💻 Works in all modern browsers and Node >=12
+- 🎛️ Works in modern browsers & Node >=12
 - 🎖️ This module is available in three formats:
-  - 📟 ES Module: `dist/index.js`
-  - 📼 CommonJS: `dist/index.cjs`
-  - 🌍 UMD: `dist/index.global.js`
+- 📟 ES Module: `dist/index.js`
+- 📼 CommonJS: `dist/index.cjs`
+- 🌍 UMD: `dist/index.global.js`
 
 <br>
 
