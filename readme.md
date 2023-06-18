@@ -2,10 +2,20 @@
 
 # mxcn
 
-[![DOWNLOADS](https://img.shields.io/npm/dt/mxcn?label=DOWNLOADS%20%20❯&colorA=6A788D&colorB=6A788D&style=flat)](https://www.npmjs.com/package/mxcn) [![Node.js CLI](https://img.shields.io/badge/-NodeCLI.com-gray.svg?colorB=6A788D&style=flat)](https://NodeCLI.com/?utm_source=FOSS) [![Learn VSCode](https://img.shields.io/badge/-VSCODE.pro-gray.svg?colorB=6A788D&style=flat)](https://VSCode.pro/?utm_source=FOSS) [![Sponsor](https://img.shields.io/badge/-Sponsor-gray.svg?colorB=6A788D&style=flat)](https://github.com/ahmadawais/sponsor?utm_source=FOSS)
-[![Follow @MrAhmadAwais on Twitter](https://img.shields.io/badge/FOLLOW%20@MRAHMADAWAIS-gray.svg?colorA=6A788D&colorB=6A788D&style=flat)](https://twitter.com/mrahmadawais/)
+[![DOWNLOADS](https://img.shields.io/npm/dt/mxcn?label=DOWNLOADS%20%20❯&colorA=21262D&colorB=30363D&style=flat)](https://www.npmjs.com/package/mxcn) [![Node.js CLI](https://img.shields.io/badge/-NodeCLI.com-gray.svg?colorA=21262D&colorB=30363D&style=flat)](https://NodeCLI.com/?utm_source=FOSS) [![Learn VSCode](https://img.shields.io/badge/-VSCODE.pro-gray.svg?colorA=21262D&colorB=30363D&style=flat)](https://VSCode.pro/?utm_source=FOSS) [![Sponsor](https://img.shields.io/badge/-Sponsor-gray.svg?colorA=21262D&colorB=30363D&style=flat)](https://github.com/ahmadawais/sponsor?utm_source=FOSS)
+[![Follow @MrAhmadAwais on Twitter](https://img.shields.io/badge/Twitter-@MRAHMADAWAIS-gray.svg?colorA=21262D&colorB=30363D&style=flat)](https://twitter.com/mrahmadawais/)
 
-> Utility function to use both &#x60;clsx&#x60; and &#x60;tailwind-merge&#x60; in one go. Where class merging becomes a seamless dance, leaving style conflicts in the dust!
+> Utility function to use both[`clsx`](https://github.com/lukeed/clsx) and [`tailwind-merge`](https://github.com/dcastil/tailwind-merge) in one go. Where class merging becomes a seamless dance, leaving style conflicts in the dust!
+
+<br>
+
+- 🧿 Fully typed with TypeScript.
+- 📦 Use [`clsx`](https://github.com/lukeed/clsx) and [`tailwind-merge`](https://github.com/dcastil/tailwind-merge) in one go
+- 💻 Works in all modern browsers and Node >=12
+- 🎖️ This module is available in three formats:
+  - 📟 ES Module: `dist/index.js`
+  - 📼 CommonJS: `dist/index.cjs`
+  - 🌍 UMD: `dist/index.global.js`
 
 <br>
 

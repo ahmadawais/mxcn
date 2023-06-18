@@ -10,7 +10,8 @@
 		"url": "https://twitter.com/MrAhmadAwais"
 	},
 	"files": [
-		"dist"
+		"dist",
+		"*.d.ts"
 	],
 	"keywords": [
 		"mxcn",
@@ -38,12 +39,14 @@
 	"type": "module",
 	"main": "./dist/index.cjs",
 	"module": "./dist/index.js",
+	"unpkg": "./dist/index.global.js",
 	"types": "./dist/index.d.ts",
 	"exports": {
 		".": {
 			"types": "./dist/index.d.ts",
 			"import": "./dist/index.js",
-			"require": "./dist/index.cjs"
+			"require": "./dist/index.cjs",
+			"default": "./dist/index.global.js"
 		}
 	},
 	"engines": {
@@ -51,7 +54,7 @@
 	},
 	"scripts": {
 		"dev": "npm run build -- --watch src",
-		"build": "tsup src/index.ts --format esm,cjs --dts --sourcemap --clean --minify --shims",
+		"build": "tsup src/index.ts --format esm,cjs,iife --dts --sourcemap --clean --minify --shims",
 		"format": "prettier --write \"./**/*.{js,json}\"",
 		"test": "npx vitest",
 		"prepublishOnly": "npm run build"
