@@ -4,7 +4,7 @@ import {expect, test} from 'vitest';
 
 const isTrue = () => true;
 
-test('mxcn', () => {
+test('mxcn combined', () => {
 	// Example: Combined, any example of tailwind-merge or clsx works.
 	expect(
 		cn(
