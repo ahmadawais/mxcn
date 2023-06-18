@@ -1,4 +1,4 @@
-[![mxcn](./.github/logo.png)](https://github.com/AhmadAwais/mxcn)
+[![mxcn](./.github/logo.jpg)](https://github.com/AhmadAwais/mxcn)
 
 # mxcn
 
