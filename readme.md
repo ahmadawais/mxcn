@@ -110,6 +110,20 @@ cn('foo', [1 && 'bar', { baz:false, bat:null }, ['hello', ['world']]], 'cya')
 
 <br>
 
+[![⚙️](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/usage.png)](./../../)
+
+## Course Recommendation
+
+### [NodeCLI.com][n] — Learn to build Node.js CLI Automation
+
+> Node CLI Automation development — without wasting a thousand hours
+
+After building hundreds of developer automation tools used by millions of developers, I am teaching exactly how you can do it yourself with minimum effective effort. Learn to build Node.js & JavaScript-based CLI (Command Line Interface) apps & npm packages. Automate the grunt work, do more in less time, impress your manager, make more salary, and help the community. I'm sharing it all in [this step-by-step 100-videos][n] course.
+
+[![Node CLI Course](https://raw.githubusercontent.com/ahmadawais/stuff/master/nodecli/featured.jpg)][n]
+
+<br>
+
 [![👌](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/sponsor.png)](./../../)
 
 ## Sponsor
@@ -123,19 +137,6 @@ I ([Ahmad Awais](https://twitter.com/mrahmadawais/)) and my incredible wife ([Ma
 
 [![Node CLI Course](https://img.shields.io/badge/LEARN-Node%20CLI%20Automation-gray.svg?colorA=215732&colorB=44883e&style=for-the-badge)][n] [![VSCode Course](https://img.shields.io/badge/LEARN-VSCode%20Power%20User-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge)][v] [![Node.js Course](https://img.shields.io/badge/LEARN-Node.js%20(free)-gray.svg?colorA=21262D&colorB=30363D&style=for-the-badge)][nj]
 
-<br>
-
-[![⚙️](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/usage.png)](./../../)
-
-## Course Recommendation
-
-### [NodeCLI.com][n] — Learn to build Node.js CLI Automation
-
-> Node CLI Automation development — without wasting a thousand hours
-
-After building hundreds of developer automation tools used by millions of developers, I am teaching exactly how you can do it yourself with minimum effective effort. Learn to build Node.js & JavaScript-based CLI (Command Line Interface) apps & npm packages. Automate the grunt work, do more in less time, impress your manager, make more salary, and help the community. I'm sharing it all in [this step-by-step 100-videos][n] course.
-
-[![Node CLI Course](https://raw.githubusercontent.com/ahmadawais/stuff/master/nodecli/featured.jpg)][n]
 
 [s]: https://github.com/AhmadAwais/sponsor
 [n]: https://NodeCLI.com?utm_source=github.com/ahmadawais/mxcn&utm_medium=referral&utm_campaign=profile
