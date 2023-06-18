@@ -45,11 +45,36 @@ All notable changes in this project's [released versions](../../releases) are do
 <img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
 <br>
 
+### RELEASE: [1.3.0](https://github.com/ahmadawais/mxcn/compare/1.2.3...1.3.0)
+
+![🐛 FIX:](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 Extra files [`fdab0df`](https://github.com/ahmadawais/mxcn/commit/fdab0df9ed3c4c8427aeca4d62b5346bf300302e) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Features [`f4f5c85`](https://github.com/ahmadawais/mxcn/commit/f4f5c856f8a6f3280d5f5431b011eafb95ca7f96) <br>
+
+<br>
+
+<br>
+<img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/dark-hr.png#gh-dark-mode-only" alt="hr" />
+<img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
+<br>
+
 ### RELEASE: [1.2.3](https://github.com/ahmadawais/mxcn/compare/1.2.2...1.2.3)
 
 ![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
 > 📦 SVG Logo [`1583169`](https://github.com/ahmadawais/mxcn/commit/1583169ed92e137fb19aa618c27fc7fed24e6af5) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Changelog [`a14075e`](https://github.com/ahmadawais/mxcn/commit/a14075e7701f27164c483f85f12051b87666b9eb) <br>
+
+![🚀 RELEASE:](https://img.shields.io/badge/-RELEASE-gray.svg?colorB=E5A301)
+
+> 🚀 1.2.3 [`d41f08c`](https://github.com/ahmadawais/mxcn/commit/d41f08c531d54f6abaf55dbad9f8247fcdd6fba6) <br>
 
 <br>
 
