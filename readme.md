@@ -98,9 +98,6 @@ cn('foo', [1 && 'bar', { baz:false, bat:null }, ['hello', ['world']]], 'cya')
 
 ## Connect
 
-<div align="left"><p><a href="https://nodecli.com/?utm_source=github.com/ahmadawais&utm_medium=referral&utm_campaign=profile"><img alt="NodeCLI.com" align="center" src="https://img.shields.io/badge/LEARN-Node%20CLI%20Automation%20-gray.svg?colorA=596577&colorB=6A788D&style=for-the-badge" /></a>&nbsp; <strong>IMP:</strong> I'm teaching developers how to automate their work and life with JavaScript
-</p></div>
-
 <div align="left">
     <p><a href="https://twitter.com/MrAhmadAwais/"><img alt="Twitter @MrAhmadAwais" align="center" src="https://img.shields.io/badge/-@MrAhmadAwais-gray.svg?colorA=6A788D&colorB=1da1f2&style=for-the-badge" /></a>&nbsp;<small> <strong>(follow)</strong> To get <a href="https://Awais.dev/odmt">#OneDevMinute</a> development tips</small></p>
     <p><a href="https://www.youtube.com/AhmadAwais"><img alt="YouTube AhmadAwais" align="center" src="https://img.shields.io/badge/YOUTUBE-gray.svg?colorA=6A788D&colorB=6A788D&style=for-the-badge" /></a>&nbsp;<small><strong>(subscribe)</strong> Tech talks & #OneDevMinute videos</small></p>
@@ -114,7 +111,7 @@ cn('foo', [1 && 'bar', { baz:false, bat:null }, ['hello', ['world']]], 'cya')
 
 ## Sponsor
 
-Me ([Ahmad Awais](https://twitter.com/mrahmadawais/)) and my incredible wife ([Maedah Batool](https://twitter.com/MaedahBatool/)) are two engineers who fell in love with open source and then with each other. You can read more [about me here](https://ahmadawais.com/about). If you or your company use any of my projects or like what I’m doing then consider backing me. I'm in this for the long run. An open-source developer advocate.
+I ([Ahmad Awais](https://twitter.com/mrahmadawais/)) and my incredible wife ([Maedah Batool](https://twitter.com/MaedahBatool/)) are two engineers who fell in love with open source and then with each other. You can read more [about me here](https://ahmadawais.com/about). If you or your company use any of my projects or like what I’m doing then consider backing me. I'm in this for the long run. An open-source developer advocate.
 
 
 [![Sponsor Awais](https://raw.githubusercontent.com/ahmadawais/stuff/master/sponsor/sponsor.jpg)][s]
