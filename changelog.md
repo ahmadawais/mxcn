@@ -45,6 +45,19 @@ All notable changes in this project's [released versions](../../releases) are do
 <img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
 <br>
 
+### RELEASE: [1.2.1](https://github.com/ahmadawais/mxcn/compare/1.2.0...1.2.1)
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Logo [`a24f2ed`](https://github.com/ahmadawais/mxcn/commit/a24f2ed805c5e467447d3bc6dd805cd8f5237c65) <br>
+
+<br>
+
+<br>
+<img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/dark-hr.png#gh-dark-mode-only" alt="hr" />
+<img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
+<br>
+
 ### RELEASE: [1.2.0](https://github.com/ahmadawais/mxcn/compare/1.1.0...1.2.0)
 
 ![✅ TEST:](https://img.shields.io/badge/-TESTS-gray.svg?colorB=2BBA00)
@@ -53,6 +66,10 @@ All notable changes in this project's [released versions](../../releases) are do
 > 🤖 mxcn tailwind-merge [`47b47df`](https://github.com/ahmadawais/mxcn/commit/47b47df55f7538a9dadaacd9b49005a835eb3956) <br>
 > 🤖 mxcn clsx: Strings (variadic) [`31ea1a4`](https://github.com/ahmadawais/mxcn/commit/31ea1a4799023d36299ce3f38d5e81dc1eebe973) <br>
 > 🤖 mxcn combined [`bc8e689`](https://github.com/ahmadawais/mxcn/commit/bc8e6896d8801e495256b0f979ec06e3bf03826a) <br>
+
+![🚀 RELEASE:](https://img.shields.io/badge/-RELEASE-gray.svg?colorB=E5A301)
+
+> 🚀 1.2.0 [`9ede941`](https://github.com/ahmadawais/mxcn/commit/9ede941ca5a59917e0b8137d6a647831b88e690a) <br>
 
 <br>
 
