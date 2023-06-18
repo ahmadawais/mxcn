@@ -59,3 +59,33 @@ test('mxcn tailwind-merge', () => {
 test('mxcn clsx: Strings (variadic)', () => {
 	expect(cn('foo', true && 'bar', 'baz')).toBe('foo bar baz');
 });
+
+test('mxcn clsx: Objects', () => {
+	expect(cn({foo: true, bar: false, baz: isTrue()})).toBe('foo baz');
+});
+
+test('mxcn clsx: Objects (variadic)', () => {
+	expect(cn({foo: true}, {bar: false}, null, {'--foobar': 'hello'})).toBe(
+		'foo --foobar'
+	);
+});
+
+test('mxcn clsx: Arrays', () => {
+	expect(cn(['foo', 0, false, 'bar'])).toBe('foo bar');
+});
+
+test('mxcn clsx: Arrays (variadic)', () => {
+	expect(
+		cn(['foo'], ['', 0, false, 'bar'], [['baz', [['hello'], 'there']]])
+	).toBe('foo bar baz hello there');
+});
+
+test('mxcn clsx: Kitchen sink (with nesting)', () => {
+	expect(
+		cn(
+			'foo',
+			[1 && 'bar', {baz: false, bat: null}, ['hello', ['world']]],
+			'cya'
+		)
+	).toBe('foo bar hello world cya');
+});
