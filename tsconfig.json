@@ -52,6 +52,10 @@
 		"noUncheckedIndexedAccess": true,
 		"noPropertyAccessFromIndexSignature": true,
 		"noEmitOnError": true,
-		"useDefineForClassFields": true
+		"useDefineForClassFields": true,
+		// Next
+		"allowJs": true,
+		"resolveJsonModule": true,
+		"isolatedModules": true
 	}
 }
