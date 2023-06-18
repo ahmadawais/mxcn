@@ -74,7 +74,7 @@ cn(['foo', 0, false, 'bar'])
 cn(['foo'], ['', 0, false, 'bar'], [['baz', [['hello'], 'there']]])
 //=> 'foo bar baz hello there'
 
-// Kitchen sink (with nesting)
+// The famous Kitchen sink (with nesting)
 cn('foo', [1 && 'bar', { baz:false, bat:null }, ['hello', ['world']]], 'cya')
 //=> 'foo bar hello world cya'
 ```
