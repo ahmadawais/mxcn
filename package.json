@@ -1,7 +1,7 @@
 {
 	"name": "mxcn",
 	"version": "0.0.1",
-	"description": "Utility function to use both &#x60;clsx&#x60; and &#x60;tailwind-merge&#x60; in one go. Where class merging becomes a seamless dance, leaving style conflicts in the dust!",
+	"description": "Utility function to use both `clsx` and `tailwind-merge` in one go. Where class merging becomes a seamless dance, leaving style conflicts in the dust!",
 	"license": "MIT",
 	"repository": "ahmadawais/mxcn",
 	"author": {
@@ -9,9 +9,8 @@
 		"email": "me@AhmadAwais.com",
 		"url": "https://twitter.com/MrAhmadAwais"
 	},
-	"main": "index.js",
 	"files": [
-		"index.js"
+		"dist"
 	],
 	"keywords": [
 		"mxcn",
@@ -19,10 +18,37 @@
 		"ahmadawais"
 	],
 	"devDependencies": {
-		"prettier": "^2.0.2"
+		"@babel/core": "^7.22.5",
+		"@babel/preset-env": "^7.22.5",
+		"esbuild": "^0.18.4",
+		"prettier": "^2.0.2",
+		"tsup": "^7.0.0",
+		"typescript": "^5.1.3",
+		"vitest": "^0.32.2"
+	},
+	"dependencies": {
+		"clsx": "^1.2.1",
+		"tailwind-merge": "^1.13.2"
+	},
+	"type": "module",
+	"main": "./dist/index.js",
+	"module": "./dist/index.mjs",
+	"types": "./dist/index.d.ts",
+	"exports": {
+		".": {
+			"require": "./dist/index.js",
+			"import": "./dist/index.mjs",
+			"types": "./dist/index.d.ts"
+		}
+	},
+	"engines": {
+		"node": ">=12"
 	},
 	"scripts": {
-		"test": "node test.js",
-		"format": "prettier --write \"./**/*.{js,json}\""
+		"test": "npx vitest",
+		"format": "prettier --write \"./**/*.{js,json}\"",
+		"build": "tsup src/index.ts --format esm,cjs --dts --sourcemap --clean --minify --shims",
+		"dev": "npm run build -- --watch src",
+		"prepublishOnly": "npm run build"
 	}
 }

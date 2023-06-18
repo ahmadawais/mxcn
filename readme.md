@@ -12,7 +12,7 @@
 ## Install
 
 ```sh
-npm install mxcn
+npm i mxcn
 ```
 
 <br>
@@ -22,11 +22,49 @@ npm install mxcn
 ## Usage
 
 ```js
-// Use ESM `import` statement syntax.
-import mxcn from 'mxcn';
+// Use ESM `import` statement syntax for ESM lib.
+import cn from 'mxcn';
+import { cn } from 'mxcn'; // Or named import.
 
-// OR use CommonJS `require` syntax.
-const mxcn = require('mxcn');
+// OR use CommonJS `require` syntax for CommonJS lib.
+const cn = require('mxcn');
+
+// Basic usage in React.
+<div className={cn('custom class or tailwind px-2 py-3 flex')} />
+
+// Example: Combined, any example of tailwind-merge or clsx works.
+cn('px-2 py-1 bg-red hover:bg-dark-red', null, true && 'p-3 bg-[#B91C1C]')
+//=> 'hover:bg-dark-red p-3 bg-[#B91C1C]'
+
+// Example: tailwind-merge
+cn('px-2 py-1 bg-red hover:bg-dark-red', 'p-3 bg-[#B91C1C]')
+//=> 'hover:bg-dark-red p-3 bg-[#B91C1C]'
+// Why? px-2 and py-1 are removed because of p-3 that came afterwards.
+
+// Example: clsx
+// Strings (variadic)
+cn('foo', true && 'bar', 'baz')
+//=> 'foo bar baz'
+
+// Objects
+cn({ foo:true, bar:false, baz:isTrue() })
+//=> 'foo baz'
+
+// Objects (variadic)
+cn({ foo:true }, { bar:false }, null, { '--foobar':'hello' })
+//=> 'foo --foobar'
+
+// Arrays
+cn(['foo', 0, false, 'bar'])
+//=> 'foo bar'
+
+// Arrays (variadic)
+cn(['foo'], ['', 0, false, 'bar'], [['baz', [['hello'], 'there']]])
+//=> 'foo bar baz hello there'
+
+// Kitchen sink (with nesting)
+cn('foo', [1 && 'bar', { baz:false, bat:null }, ['hello', ['world']]], 'cya')
+//=> 'foo bar hello world cya'
 ```
 
 <br>
