@@ -45,6 +45,19 @@ All notable changes in this project's [released versions](../../releases) are do
 <img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
 <br>
 
+### RELEASE: [1.3.1](https://github.com/ahmadawais/mxcn/compare/1.3.0...1.3.1)
+
+![👌 IMPROVE:](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 Lingo [`bbf8dd7`](https://github.com/ahmadawais/mxcn/commit/bbf8dd7a370763a93d004609b04873bc55c7740d) <br>
+
+<br>
+
+<br>
+<img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/dark-hr.png#gh-dark-mode-only" alt="hr" />
+<img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
+<br>
+
 ### RELEASE: [1.3.0](https://github.com/ahmadawais/mxcn/compare/1.2.3...1.3.0)
 
 ![🐛 FIX:](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
@@ -53,7 +66,12 @@ All notable changes in this project's [released versions](../../releases) are do
 
 ![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
 
+> 📖 Changelog [`dfd47d6`](https://github.com/ahmadawais/mxcn/commit/dfd47d6dad8086f7e8007f7c05817edcc3427df1) <br>
 > 📖 Features [`f4f5c85`](https://github.com/ahmadawais/mxcn/commit/f4f5c856f8a6f3280d5f5431b011eafb95ca7f96) <br>
+
+![🚀 RELEASE:](https://img.shields.io/badge/-RELEASE-gray.svg?colorB=E5A301)
+
+> 🚀 1.3.0 [`81b829c`](https://github.com/ahmadawais/mxcn/commit/81b829c795e411806d1976d6fba743ce79d150c0) <br>
 
 <br>
 
