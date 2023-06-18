@@ -45,10 +45,24 @@ All notable changes in this project's [released versions](../../releases) are do
 <img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
 <br>
 
+### RELEASE: [1.2.2](https://github.com/ahmadawais/mxcn/compare/1.2.1...1.2.2)
+
+![🐛 FIX:](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 Logo filename [`83bf7e3`](https://github.com/ahmadawais/mxcn/commit/83bf7e39f60327d97beb07197532aa83b705e503) <br>
+
+<br>
+
+<br>
+<img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/dark-hr.png#gh-dark-mode-only" alt="hr" />
+<img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
+<br>
+
 ### RELEASE: [1.2.1](https://github.com/ahmadawais/mxcn/compare/1.2.0...1.2.1)
 
 ![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
 
+> 📖 Changelog [`e1371a0`](https://github.com/ahmadawais/mxcn/commit/e1371a0308aa45421de27f2e80b1e56b3d61d87f) <br>
 > 📖 Logo [`a24f2ed`](https://github.com/ahmadawais/mxcn/commit/a24f2ed805c5e467447d3bc6dd805cd8f5237c65) <br>
 
 <br>
