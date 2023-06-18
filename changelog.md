@@ -55,6 +55,7 @@ All notable changes in this project's [released versions](../../releases) are do
 
 > 📖 Changelog [`f23fe81`](https://github.com/ahmadawais/mxcn/commit/f23fe819f3a237d53609a4035dfcc4a2f1a5df8b) <br>
 > 📖 Changelog [`36158a4`](https://github.com/ahmadawais/mxcn/commit/36158a41fd1bfcb143b05b5b2f1ba1dcf19f89f7) <br>
+> 📖 Changelog [`3305e7c`](https://github.com/ahmadawais/mxcn/commit/3305e7c7a3c5362032db7299491654edcf2a6b84) <br>
 
 <br>
 
@@ -69,6 +70,10 @@ All notable changes in this project's [released versions](../../releases) are do
 
 > 📖 Changelog [`959a9fd`](https://github.com/ahmadawais/mxcn/commit/959a9fd7ed1887cba52f56bf43c8e83341e3bf93) <br>
 > 📖 Deps docs [`ecb9d7d`](https://github.com/ahmadawais/mxcn/commit/ecb9d7d5a271bbd992bb574835d53675606f5b69) <br>
+
+![🚀 RELEASE:](https://img.shields.io/badge/-RELEASE-gray.svg?colorB=E5A301)
+
+> 🚀 1.3.3 [`34a5900`](https://github.com/ahmadawais/mxcn/commit/34a5900d3b6c1e97186db5701051fcb7cdf1f05d) asd<br>
 
 <br>
 
@@ -87,6 +92,10 @@ All notable changes in this project's [released versions](../../releases) are do
 
 > 📖 Changelog [`0327858`](https://github.com/ahmadawais/mxcn/commit/032785866bda744df7fcbde88be74a54701e0bb3) <br>
 
+![🚀 RELEASE:](https://img.shields.io/badge/-RELEASE-gray.svg?colorB=E5A301)
+
+> 🚀 1.3.2 [`b4087bd`](https://github.com/ahmadawais/mxcn/commit/b4087bd5f4f719c8f16a2d9dac27acd37f386ebb) asd<br>
+
 <br>
 
 <br>
@@ -103,6 +112,10 @@ All notable changes in this project's [released versions](../../releases) are do
 ![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
 
 > 📖 Changelog [`362ef54`](https://github.com/ahmadawais/mxcn/commit/362ef54b8b7a675bfa661eaac28d26364c6d78a3) <br>
+
+![🚀 RELEASE:](https://img.shields.io/badge/-RELEASE-gray.svg?colorB=E5A301)
+
+> 🚀 1.3.1 [`a80954d`](https://github.com/ahmadawais/mxcn/commit/a80954d3052d8e95673e4ebfbd2659fe40e54408) asd<br>
 
 <br>
 
@@ -122,6 +135,10 @@ All notable changes in this project's [released versions](../../releases) are do
 > 📖 Changelog [`dfd47d6`](https://github.com/ahmadawais/mxcn/commit/dfd47d6dad8086f7e8007f7c05817edcc3427df1) <br>
 > 📖 Features [`f4f5c85`](https://github.com/ahmadawais/mxcn/commit/f4f5c856f8a6f3280d5f5431b011eafb95ca7f96) <br>
 
+![🚀 RELEASE:](https://img.shields.io/badge/-RELEASE-gray.svg?colorB=E5A301)
+
+> 🚀 1.3.0 [`81b829c`](https://github.com/ahmadawais/mxcn/commit/81b829c795e411806d1976d6fba743ce79d150c0) asd<br>
+
 <br>
 
 <br>
@@ -139,6 +156,10 @@ All notable changes in this project's [released versions](../../releases) are do
 
 > 📖 Changelog [`a14075e`](https://github.com/ahmadawais/mxcn/commit/a14075e7701f27164c483f85f12051b87666b9eb) <br>
 
+![🚀 RELEASE:](https://img.shields.io/badge/-RELEASE-gray.svg?colorB=E5A301)
+
+> 🚀 1.2.3 [`d41f08c`](https://github.com/ahmadawais/mxcn/commit/d41f08c531d54f6abaf55dbad9f8247fcdd6fba6) asd<br>
+
 <br>
 
 <br>
@@ -155,6 +176,10 @@ All notable changes in this project's [released versions](../../releases) are do
 ![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
 
 > 📖 Changelog [`07e836d`](https://github.com/ahmadawais/mxcn/commit/07e836df183008093c7efc2e5ed0f07e9b8a1a59) <br>
+
+![🚀 RELEASE:](https://img.shields.io/badge/-RELEASE-gray.svg?colorB=E5A301)
+
+> 🚀 1.2.2 [`828c412`](https://github.com/ahmadawais/mxcn/commit/828c412a7e088d27c957ac8a7c0610bb9f692757) asd<br>
 
 <br>
 
@@ -185,6 +210,10 @@ All notable changes in this project's [released versions](../../releases) are do
 > 🤖 mxcn tailwind-merge [`47b47df`](https://github.com/ahmadawais/mxcn/commit/47b47df55f7538a9dadaacd9b49005a835eb3956) <br>
 > 🤖 mxcn clsx: Strings (variadic) [`31ea1a4`](https://github.com/ahmadawais/mxcn/commit/31ea1a4799023d36299ce3f38d5e81dc1eebe973) <br>
 > 🤖 mxcn combined [`bc8e689`](https://github.com/ahmadawais/mxcn/commit/bc8e6896d8801e495256b0f979ec06e3bf03826a) <br>
+
+![🚀 RELEASE:](https://img.shields.io/badge/-RELEASE-gray.svg?colorB=E5A301)
+
+> 🚀 1.2.0 [`9ede941`](https://github.com/ahmadawais/mxcn/commit/9ede941ca5a59917e0b8137d6a647831b88e690a) asd<br>
 
 <br>
 
