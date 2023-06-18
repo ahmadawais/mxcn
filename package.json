@@ -24,9 +24,6 @@
 		"ahmadawais"
 	],
 	"devDependencies": {
-		"@babel/core": "^7.22.5",
-		"@babel/preset-env": "^7.22.5",
-		"esbuild": "^0.18.4",
 		"prettier": "^2.0.2",
 		"tsup": "^7.0.0",
 		"typescript": "^5.1.3",
