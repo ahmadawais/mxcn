@@ -14,6 +14,11 @@
 	],
 	"keywords": [
 		"mxcn",
+		"tailwind-merge",
+		"clsx",
+		"classnames",
+		"classname",
+		"tailwind",
 		"Ahmad Awais",
 		"ahmadawais"
 	],
@@ -45,10 +50,10 @@
 		"node": ">=12"
 	},
 	"scripts": {
-		"test": "npx vitest",
-		"format": "prettier --write \"./**/*.{js,json}\"",
-		"build": "tsup src/index.ts --format esm,cjs --dts --sourcemap --clean --minify --shims",
 		"dev": "npm run build -- --watch src",
+		"build": "tsup src/index.ts --format esm,cjs --dts --sourcemap --clean --minify --shims",
+		"format": "prettier --write \"./**/*.{js,json}\"",
+		"test": "npx vitest",
 		"prepublishOnly": "npm run build"
 	}
 }
