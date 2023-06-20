@@ -34,8 +34,9 @@ npm i mxcn
 ## Usage
 
 ```js
+// Note: I called it `cn` as in className.
 // Use ESM `import` statement syntax for ESM lib.
-import cn from 'mxcn'; // `cn` as in className.
+import cn from 'mxcn';
 import { cn } from 'mxcn'; // Or named import.
 
 // OR use CommonJS `require` syntax for CommonJS lib.
