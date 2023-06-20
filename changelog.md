@@ -45,9 +45,20 @@ All notable changes in this project's [released versions](../../releases) are do
 <img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
 <br>
 
+### RELEASE: [1.3.6](https://github.com/ahmadawais/mxcn/compare/1.3.6...1.3.6)
+
+<br>
+
+<br>
+<img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/dark-hr.png#gh-dark-mode-only" alt="hr" />
+<img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
+<br>
+
 ### RELEASE: [1.3.6](https://github.com/ahmadawais/mxcn/compare/1.3.5...1.3.6)
 
 ![📖 DOC:](https://img.shields.io/badge/📖-DOCS-gray.svg?colorA=1169DA&colorB=1169DA&style=for-the-badge)
+
+> 📖 Changelog [`7d8ddd0`](https://github.com/ahmadawais/mxcn/commit/7d8ddd048db5dc1dbf1ec0a2fc80e8fe764c4703)
 
 > 📖 Lib definition [`1b7a8b4`](https://github.com/ahmadawais/mxcn/commit/1b7a8b45b61c51f8cb9d539aca4e613eb8590367)
 
@@ -67,7 +78,9 @@ All notable changes in this project's [released versions](../../releases) are do
 ![📖 DOC:](https://img.shields.io/badge/📖-DOCS-gray.svg?colorA=1169DA&colorB=1169DA&style=for-the-badge)
 
 > 📖 Changelog [`a49986a`](https://github.com/ahmadawais/mxcn/commit/a49986a10f077ce0303b0345cd523cca8273f763)
+
 > 📖 Changelog [`3404008`](https://github.com/ahmadawais/mxcn/commit/3404008aea9f07a40b32a71ea554e3c6ced8fef2)
+
 > 📖 Lingo [`efd38e4`](https://github.com/ahmadawais/mxcn/commit/efd38e4a8b3bc0993c04d322f0c0a67eda1a9dd3)
 
 <br>
@@ -86,12 +99,19 @@ All notable changes in this project's [released versions](../../releases) are do
 ![📖 DOC:](https://img.shields.io/badge/📖-DOCS-gray.svg?colorA=1169DA&colorB=1169DA&style=for-the-badge)
 
 > 📖 Changelog [`ce4e2b5`](https://github.com/ahmadawais/mxcn/commit/ce4e2b5c89f7613954f977ce8e41803fd074913f)
+
 > 📖 Changelog [`f23fe81`](https://github.com/ahmadawais/mxcn/commit/f23fe819f3a237d53609a4035dfcc4a2f1a5df8b)
+
 > 📖 Changelog [`3eaa8e0`](https://github.com/ahmadawais/mxcn/commit/3eaa8e089db3b94044cd80aff94ab0545304dd12)
+
 > 📖 Changelog [`36158a4`](https://github.com/ahmadawais/mxcn/commit/36158a41fd1bfcb143b05b5b2f1ba1dcf19f89f7)
+
 > 📖 Changelog [`b931dd5`](https://github.com/ahmadawais/mxcn/commit/b931dd5be57c882203b07b49dccf8117fe9b76bf)
+
 > 📖 Changelog [`9808219`](https://github.com/ahmadawais/mxcn/commit/980821988c0e68e1ad69c5ce74799e108c8a59d8)
+
 > 📖 Lingo [`f4a196a`](https://github.com/ahmadawais/mxcn/commit/f4a196af9ca30632a04e270dae19a2f6f9f54378)
+
 > 📖 Changelog [`3305e7c`](https://github.com/ahmadawais/mxcn/commit/3305e7c7a3c5362032db7299491654edcf2a6b84)
 
 <br>
@@ -106,6 +126,7 @@ All notable changes in this project's [released versions](../../releases) are do
 ![📖 DOC:](https://img.shields.io/badge/📖-DOCS-gray.svg?colorA=1169DA&colorB=1169DA&style=for-the-badge)
 
 > 📖 Changelog [`959a9fd`](https://github.com/ahmadawais/mxcn/commit/959a9fd7ed1887cba52f56bf43c8e83341e3bf93)
+
 > 📖 Deps docs [`ecb9d7d`](https://github.com/ahmadawais/mxcn/commit/ecb9d7d5a271bbd992bb574835d53675606f5b69)
 
 <br>
@@ -158,6 +179,7 @@ All notable changes in this project's [released versions](../../releases) are do
 ![📖 DOC:](https://img.shields.io/badge/📖-DOCS-gray.svg?colorA=1169DA&colorB=1169DA&style=for-the-badge)
 
 > 📖 Changelog [`dfd47d6`](https://github.com/ahmadawais/mxcn/commit/dfd47d6dad8086f7e8007f7c05817edcc3427df1)
+
 > 📖 Features [`f4f5c85`](https://github.com/ahmadawais/mxcn/commit/f4f5c856f8a6f3280d5f5431b011eafb95ca7f96)
 
 <br>
@@ -206,6 +228,7 @@ All notable changes in this project's [released versions](../../releases) are do
 ![📖 DOC:](https://img.shields.io/badge/📖-DOCS-gray.svg?colorA=1169DA&colorB=1169DA&style=for-the-badge)
 
 > 📖 Changelog [`e1371a0`](https://github.com/ahmadawais/mxcn/commit/e1371a0308aa45421de27f2e80b1e56b3d61d87f)
+
 > 📖 Logo [`a24f2ed`](https://github.com/ahmadawais/mxcn/commit/a24f2ed805c5e467447d3bc6dd805cd8f5237c65)
 
 <br>
@@ -220,8 +243,11 @@ All notable changes in this project's [released versions](../../releases) are do
 ![✅ TEST:](https://img.shields.io/badge/✅-TESTS-gray.svg?colorA=BF8700&colorB=BF8700&style=for-the-badge)
 
 > 🤖 8 tests [`a20738f`](https://github.com/ahmadawais/mxcn/commit/a20738f2d620ffbf62638217df579ffddb8c0722)
+
 > 🤖 mxcn tailwind-merge [`47b47df`](https://github.com/ahmadawais/mxcn/commit/47b47df55f7538a9dadaacd9b49005a835eb3956)
+
 > 🤖 mxcn clsx: Strings (variadic) [`31ea1a4`](https://github.com/ahmadawais/mxcn/commit/31ea1a4799023d36299ce3f38d5e81dc1eebe973)
+
 > 🤖 mxcn combined [`bc8e689`](https://github.com/ahmadawais/mxcn/commit/bc8e6896d8801e495256b0f979ec06e3bf03826a)
 
 <br>
@@ -253,25 +279,33 @@ All notable changes in this project's [released versions](../../releases) are do
 ![📦 NEW:](https://img.shields.io/badge/📦-NEW-gray.svg?colorA=238635&colorB=238635&style=for-the-badge)
 
 > 📦 First commit [`8bb096b`](https://github.com/ahmadawais/mxcn/commit/8bb096b64d64a6de8e81bc3e9cc098de72d39699)
+
 > 📦 Passing tests [`5d4e4f8`](https://github.com/ahmadawais/mxcn/commit/5d4e4f8fd6074b2f762e8038188608ad4d2247a0)
 
 ![👌 IMPROVE:](https://img.shields.io/badge/👌-IMPROVEMENT-gray.svg?colorA=8250DF&colorB=8250DF&style=for-the-badge)
 
 > 👌 Keywords [`ce09961`](https://github.com/ahmadawais/mxcn/commit/ce0996162f656f5f9606e62ce854e6ae1c4abc8a)
+
 > 👌 Connect [`e914b83`](https://github.com/ahmadawais/mxcn/commit/e914b834ce2714fe40dffa22562a5bba8058e958)
+
 > 👌 Connect [`9e70857`](https://github.com/ahmadawais/mxcn/commit/9e70857f3a70d50864d321087fd9a7e656a39fed)
+
 > 👌 Ignore dist [`be0255a`](https://github.com/ahmadawais/mxcn/commit/be0255a04d94d352af558c5ec556710c358e77f5)
 
 ![🐛 FIX:](https://img.shields.io/badge/🐛-FIX-gray.svg?colorA=BC4C00&colorB=BC4C00&style=for-the-badge)
 
 > 🐛 Sync .gitignore [`4a41c5f`](https://github.com/ahmadawais/mxcn/commit/4a41c5fd06bb0bf7b83a3e36468eca09c64a929d)
+
 > 🐛 Connect [`326ca6c`](https://github.com/ahmadawais/mxcn/commit/326ca6c243a2827f659a8c74c2c7c3eb1efede7b)
+
 > 🐛 Typo [`8336983`](https://github.com/ahmadawais/mxcn/commit/83369830eda205c03aa66c3d417754dbf57c9c07)
 
 ![📖 DOC:](https://img.shields.io/badge/📖-DOCS-gray.svg?colorA=1169DA&colorB=1169DA&style=for-the-badge)
 
 > 📖 Changelog [`ec834d7`](https://github.com/ahmadawais/mxcn/commit/ec834d7dfe23a59f2664e8813313445b340b4478)
+
 > 📖 Less goo! [`8432f1f`](https://github.com/ahmadawais/mxcn/commit/8432f1fed60c2d22387fd00aeeeb4609fc97a9c7)
+
 > 📖 Order [`c03a20e`](https://github.com/ahmadawais/mxcn/commit/c03a20ee8bc71ddc6b9a472c2ac107b5cf9b068d)
 
 <br>
