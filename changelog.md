@@ -39,23 +39,6 @@ All notable changes in this project's [released versions](../../releases) are do
 </small>
 
 <br>
-
-<br>
-<img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/dark-hr.png#gh-dark-mode-only" alt="hr" />
-<img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
-<br>
-
-### RELEASE: [1.3.6](https://github.com/ahmadawais/mxcn/compare/1.3.6...1.3.6)
-
-![🐛 FIX:](https://img.shields.io/badge/🐛-FIX-gray.svg?colorA=BC4C00&colorB=BC4C00&style=for-the-badge)
-
-> 🐛 Changelog format [`1b9f3c7`](https://github.com/ahmadawais/mxcn/commit/1b9f3c7081f5dd155b06346b312cffd0c57ab530)
-
-> 🐛 Lingo [`bdd80df`](https://github.com/ahmadawais/mxcn/commit/bdd80df40ac4813a896de1f37e621696ef392f6a)
-
-<br>
-
-<br>
 <img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/dark-hr.png#gh-dark-mode-only" alt="hr" />
 <img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
 <br>
