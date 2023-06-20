@@ -9,8 +9,8 @@
 
 <br>
 
-- 🧿 Fully typed, with built-in TypeScript declarations
 - 📦 Use [`clsx`](https://github.com/lukeed/clsx) and [`tailwind-merge`](https://github.com/dcastil/tailwind-merge) in one go
+- 🧿 Fully typed, built-in TypeScript declarations
 - 🎛️ Works in modern browsers & Node >=12
 - 🎖️ This module is available in three formats:
 - 📟 ES Module: `dist/index.js`
