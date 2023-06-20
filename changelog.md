@@ -45,9 +45,24 @@ All notable changes in this project's [released versions](../../releases) are do
 <img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
 <br>
 
+### RELEASE: [1.3.10](https://github.com/ahmadawais/mxcn/compare/1.3.9...1.3.10)
+
+![📖 DOC:](https://img.shields.io/badge/📖-DOCS-gray.svg?colorA=1169DA&colorB=1169DA&style=for-the-badge)
+
+> 📖 CoC [`09aae6f`](https://github.com/ahmadawais/mxcn/commit/09aae6fe3d5d78fa97aaa2066c8658d2db857d83)
+
+<br>
+
+<br>
+<img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/dark-hr.png#gh-dark-mode-only" alt="hr" />
+<img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
+<br>
+
 ### RELEASE: [1.3.9](https://github.com/ahmadawais/mxcn/compare/1.3.8...1.3.9)
 
 ![📖 DOC:](https://img.shields.io/badge/📖-DOCS-gray.svg?colorA=1169DA&colorB=1169DA&style=for-the-badge)
+
+> 📖 Changelog [`c8b9d48`](https://github.com/ahmadawais/mxcn/commit/c8b9d4876a724adf8196622c92b59c6863284778)
 
 > 📖 Lingo [`3bb1b9c`](https://github.com/ahmadawais/mxcn/commit/3bb1b9c4d3f5d0cc69c533a5a0ce40ca7b9ef1f2)
 
