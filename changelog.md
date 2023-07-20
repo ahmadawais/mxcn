@@ -45,11 +45,26 @@ All notable changes in this project's [released versions](../../releases) are do
 <img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
 <br>
 
+### RELEASE: [2.0.0](https://github.com/ahmadawais/mxcn/compare/1.3.10...2.0.0)
+
+![📦 NEW:](https://img.shields.io/badge/📦-NEW-gray.svg?colorA=238635&colorB=238635&style=for-the-badge)
+
+> 📦 clsx v2 major update and tailwind-merge minor udpate [`c55a57f`](https://github.com/ahmadawais/mxcn/commit/c55a57f5af2e2dbfc989fbd7aee65b8d46dfe46d)
+
+<br>
+
+<br>
+<img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/dark-hr.png#gh-dark-mode-only" alt="hr" />
+<img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
+<br>
+
 ### RELEASE: [1.3.10](https://github.com/ahmadawais/mxcn/compare/1.3.9...1.3.10)
 
 ![📖 DOC:](https://img.shields.io/badge/📖-DOCS-gray.svg?colorA=1169DA&colorB=1169DA&style=for-the-badge)
 
 > 📖 CoC [`09aae6f`](https://github.com/ahmadawais/mxcn/commit/09aae6fe3d5d78fa97aaa2066c8658d2db857d83)
+
+> 📖 Changelog [`c602a23`](https://github.com/ahmadawais/mxcn/commit/c602a231fdaef7e4c1b822b81fd109b16611b295)
 
 <br>
 
