@@ -51,6 +51,10 @@ All notable changes in this project's [released versions](../../releases) are do
 
 > 📦 clsx v2 major update and tailwind-merge minor udpate [`c55a57f`](https://github.com/ahmadawais/mxcn/commit/c55a57f5af2e2dbfc989fbd7aee65b8d46dfe46d)
 
+![📖 DOC:](https://img.shields.io/badge/📖-DOCS-gray.svg?colorA=1169DA&colorB=1169DA&style=for-the-badge)
+
+> 📖 Changelog [`0851d3d`](https://github.com/ahmadawais/mxcn/commit/0851d3d8a0b46d2740b0a7cc873153ade43e9bd5)
+
 <br>
 
 <br>
