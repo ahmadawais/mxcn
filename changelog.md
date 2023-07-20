@@ -55,6 +55,8 @@ All notable changes in this project's [released versions](../../releases) are do
 
 > 📖 Changelog [`0851d3d`](https://github.com/ahmadawais/mxcn/commit/0851d3d8a0b46d2740b0a7cc873153ade43e9bd5)
 
+> 📖 Changelog [`04a6c2f`](https://github.com/ahmadawais/mxcn/commit/04a6c2f3adae906dc96a508f7aeb4c4dcffe6bf7)
+
 <br>
 
 <br>
