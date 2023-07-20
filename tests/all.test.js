@@ -1,4 +1,4 @@
-import cn from './../dist/index.js';
+import cn from '../dist/index.js';
 
 import {expect, test} from 'vitest';
 
